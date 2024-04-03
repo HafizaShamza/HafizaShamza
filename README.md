@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HafizaShamza
+- 👋 Hi, I’m @HafizaShamzaHanif
 - 👀 I’m interested in Web Development, Web Designing, Python and Django
 - 🌱 I’m currently learning Python frameword Django
 - 💞️ I’m looking to collaborate on Artificial Intelligence
